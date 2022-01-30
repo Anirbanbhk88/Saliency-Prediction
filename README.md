@@ -9,3 +9,6 @@ The final salient image predictions are generated as a gray scale image. For thi
 saliency system was developed using deep neural network architecture utilizing
 the encoder-decoder structure. The model, data set preparation and training
 was done using Pytorch library and python being the programming language.
+
+Some of the sample predictions by the trained model of key areas of the image are shown below:
+
