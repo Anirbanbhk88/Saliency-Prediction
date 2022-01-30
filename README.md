@@ -12,3 +12,4 @@ was done using Pytorch library and python being the programming language.
 
 Some of the sample predictions by the trained model of key areas of the image are shown below:
 
+![Alt text](https://github.com/Anirbanbhk88/Saliency-Prediction/blob/main/Saliency_sample_pred.png "Saliency sample prediction")
